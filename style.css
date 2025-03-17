@@ -1,0 +1,37 @@
+.divi1 {
+    background-color: plum ;
+    justify-items: center;
+    background-attachment: fixed;
+}
+.divi3 {
+    clear: both;
+    background-color: plum ;
+}
+.qualite {
+    color: red;
+    font-style: italic;
+}
+#d201 {
+    float: left;
+    
+}
+#d202 {
+    float: right;
+    
+}
+.divi2 {
+    clear: both;
+    background-color: yellow ;
+}
+#d501 {
+  text-align: right;
+}
+.b00 {
+  color: rgb(100, 100,200);
+}
+.divi002 {
+    float: right;
+    height : 150px;
+    width: 590px ;
+   
+}
